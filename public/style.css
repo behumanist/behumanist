@@ -1,0 +1,12 @@
+* {
+ margin: 0 ; text-decoration: none; padding: 0; background-color: rgba(2, 18, 37, 0.756);  
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+body {
+    background-color: rgb(37, 20, 20);
+}
