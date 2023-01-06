@@ -5,7 +5,7 @@
 - 🏫 I am currently in my first year.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Learn Android Developemant and Machine Learning.
+- 🥅 2023 Goals: Learn Android Developemant and Machine Learning.
 - ⚡ Fun fact: I love to play Badminton.
 
 <br/>
