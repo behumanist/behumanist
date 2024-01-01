@@ -29,16 +29,16 @@
  <table border = "0">
   <tr>
  <a href="https://github.com/akanksha0812/github-readme-stats">
-  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&theme=radical" />
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=behumanist&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/akanksha0812/github-readme-stats">
-  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha0812&" />
+  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=behumanist&" />
 </a>
     </tr>
 </table>
 <p align = "center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha0812&show_icons=true&locale=en&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=behumanist&show_icons=true&locale=en&layout=compact" />
  
 
 
