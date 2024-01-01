@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **python, Matlab, and web development.**
 
-- 📫 How to reach me **behumanist.07@gmail.com**
+- 📫 Thinking about how to reach me? Well, my email is **behumanist.07@gmail.com**
 
 - ⚡ Fun fact **I love calisthenics.**
 
