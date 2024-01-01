@@ -26,7 +26,7 @@
 
 <h3 align="left">My Github stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=behumanist&show_icons=true&locale=en&layout=compact" alt="behumanist" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=behumanist&show_icons=true&locale=en" alt="behumanist" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=behumanist&show_icons=true&locale=en" alt="behumanist" /></p>
 
