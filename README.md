@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vijay Prakash Mishra</h1>
 
+<p align="center">
+  <img align="center"  alt="Coding" src="https://i.pinimg.com/736x/13/34/45/13344568c1b3adaeafda2f22c05ae0f1.jpg">
+</p>
+
 <h4 align="center">A second-year student pursuing a BTech in Aerospace Engineering at Lovely Professional University in Phagwara, Punjab, India, I am deeply passionate about programming and dedicated to mastering the fundamentals of propulsion, rockets, and space science.</h4>
 
 - 🔭 I’m currently working on [BeyondChats](https://beyondchats.web.app/)
