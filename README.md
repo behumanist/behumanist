@@ -33,7 +33,7 @@
 </a>
 
 <a href="https://github.com/akanksha0812/github-readme-stats">
-  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=behumanist&" />
+  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=behumanist&theme=radical" />
 </a>
     </tr>
 </table>
