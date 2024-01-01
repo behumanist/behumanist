@@ -24,10 +24,22 @@
 
 <p align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<h3 align="left">My Github stats:</h3>
+<h3>My Github Stats </h3>
 
-<p style="display: flex; justify-content:center; align-items:center;" ><img align="center" style="width : 400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=behumanist&show_icons=true&locale=en&compact=true" alt="behumanist" /></p>
+ <table border = "0">
+  <tr>
+ <a href="https://github.com/akanksha0812/github-readme-stats">
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&theme=radical" />
+</a>
 
-<img align="center" style="width : 400px"  src="https://github-readme-stats.vercel.app/api?username=behumanist&show_icons=true&locale=en" alt="behumanist" />
+<a href="https://github.com/akanksha0812/github-readme-stats">
+  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha0812&" />
+</a>
+    </tr>
+</table>
+<p align = "center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha0812&show_icons=true&locale=en&layout=compact" />
+ 
 
-<img align="center" style="width : 400px"  src="https://github-readme-streak-stats.herokuapp.com/?user=behumanist&" alt="behumanist" /></p>
+
+
