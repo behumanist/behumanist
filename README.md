@@ -2,7 +2,6 @@
 
 <h4 align="center">A second-year student pursuing a BTech in Aerospace Engineering at Lovely Professional University in Phagwara, Punjab, India, I am deeply passionate about programming and dedicated to mastering the fundamentals of propulsion, rockets, and space science.</h4>
 
-
 - 🔭 I’m currently working on [BeyondChats](https://beyondchats.web.app/)
 
 - 🌱 I’m currently learning **C and C++.**
@@ -14,6 +13,7 @@
 - ⚡ Fun fact **I love calisthenics.**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="center">
 <a href="https://twitter.com/be__humanist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="be__humanist" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/behumanist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behumanist" height="30" width="40" /></a>
