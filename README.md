@@ -26,8 +26,8 @@
 
 <h3 align="left">My Github stats:</h3>
 
-<p><img align="center" style="width : 49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=behumanist&show_icons=true&locale=en" alt="behumanist" /></p>
+<p style="display: flex; justify-content:center; align-items:center;" ><img align="center" style="width : 400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=behumanist&show_icons=true&locale=en" alt="behumanist" /></p>
 
-<img align="center" style="width : 49%"  src="https://github-readme-stats.vercel.app/api?username=behumanist&show_icons=true&locale=en" alt="behumanist" />
+<img align="center" style="width : 400px"  src="https://github-readme-stats.vercel.app/api?username=behumanist&show_icons=true&locale=en" alt="behumanist" />
 
-<img align="center" style="width : 49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=behumanist&" alt="behumanist" /></p>
+<img align="center" style="width : 400px"  src="https://github-readme-streak-stats.herokuapp.com/?user=behumanist&" alt="behumanist" /></p>
